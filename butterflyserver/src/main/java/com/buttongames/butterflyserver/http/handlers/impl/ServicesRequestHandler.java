@@ -31,7 +31,7 @@ public class ServicesRequestHandler extends BaseRequestHandler {
     /**
      * URL to return in the <code>services.get</code> request.
      */
-    private String hostUrl = "http://localhost";
+    private String hostUrl = "http://barruddr.ddns.net";
 
     /**
      * Mapping of services to their URLs.
